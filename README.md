@@ -1,1 +1,1 @@
-Machine Learning project which guesses which IPL teams can wins based on their score. 
+Machine Learning project which guesses which IPL teams can win based on their score. 
